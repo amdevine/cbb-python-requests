@@ -1,1 +1,5 @@
+.ipynb_checkpoints/
 api_key_file.txt
+parks_data.tsv
+parks_entry_fees.tsv
+
